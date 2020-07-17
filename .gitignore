@@ -24,3 +24,7 @@ hs_err_pid*
 /.metadata/
 .DS_Store
 Test/
+.classpath
+.project
+.settings*
+**/.gitignore
